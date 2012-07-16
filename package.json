@@ -1,0 +1,19 @@
+{
+  "author": "kangjia <ikangjia@gmail.com> (tingnide.com)",
+  "name": "wow",
+  "description": "tools for front-end",
+  "version": "0.0.1",
+  "email":"ikangjia@gmail.com",
+  "homepage": "tingnide.com",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "main": "./lib/main.js",
+  "bin" : { "wow": "./lib/main.js" }
+}
