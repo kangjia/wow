@@ -6,7 +6,7 @@
   "email":"ikangjia@gmail.com",
   "homepage": "tingnide.com",
   "repository": {
-    "url": ""
+    "url": "https://github.com/kangjia/wow.git"
   },
   "dependencies": {
     "filed" : "0.0.7",
