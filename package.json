@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "filed" : "0.0.7",
-    "mime" : "1.2.7
+    "mime" : "1.2.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "filed" : "0.0.7",
+    "mime" : "1.2.7"
+  },
   "optionalDependencies": {},
   "main": "./lib/main.js",
   "bin" : { "wow": "./lib/main.js" }
