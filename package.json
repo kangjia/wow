@@ -2,13 +2,16 @@
   "author": "kangjia <ikangjia@gmail.com> (tingnide.com)",
   "name": "wow",
   "description": "tools for front-end",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "email":"ikangjia@gmail.com",
   "homepage": "tingnide.com",
   "repository": {
     "url": ""
   },
-  "dependencies": {},
+  "dependencies": {
+    "filed" : "0.0.7",
+    "mime" : "1.2.7
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "main": "./lib/main.js",
